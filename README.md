@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+this is my solution for challenge 2 in [react challenge](https://www.youtube.com/watch?v=bMknfKXIFA8&t=8562s&ab_channel=freeCodeCamp.org)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
